@@ -1,0 +1,1 @@
+"""Data pipeline for research paper ingestion and processing."""

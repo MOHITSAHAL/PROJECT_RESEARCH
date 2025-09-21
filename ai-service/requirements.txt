@@ -1,0 +1,36 @@
+# AI Agent Framework
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-anthropic==0.1.0
+autogen==0.2.0
+crewai==0.1.0
+
+# Model Context Protocol
+mcp==0.1.0
+websockets==12.0
+
+# Vector Operations
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+chromadb==0.4.18
+
+# LLM Providers
+openai==1.6.1
+anthropic==0.8.1
+cohere==4.37
+
+# Agent Tools
+langchain-community==0.0.13
+langchain-experimental==0.0.47
+langsmith==0.0.77
+
+# Phase 3: Intelligent Organization
+scikit-learn==1.3.2
+numpy==1.24.3
+networkx==3.2.1
+scipy==1.11.4
+
+# Async & Utilities
+asyncio-throttle==1.0.2
+tenacity==8.2.3
+pydantic==2.5.0
